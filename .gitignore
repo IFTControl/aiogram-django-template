@@ -142,3 +142,4 @@ cython_debug/
 
 # Django static files
 static/
+/ref/
